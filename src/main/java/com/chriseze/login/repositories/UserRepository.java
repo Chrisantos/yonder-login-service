@@ -3,7 +3,7 @@ package com.chriseze.login.repositories;
 import com.chriseze.login.enums.ResponseEnum;
 import com.chriseze.login.restartifacts.BaseResponse;
 import com.chriseze.login.utils.ProxyUtil;
-import com.chriseze.login.entities.*;
+import com.chriseze.yonder.utils.entities.*;
 import com.chriseze.yonder.utils.repositories.AbstractBaseRepository;
 import java.util.ArrayList;
 import java.util.List;
